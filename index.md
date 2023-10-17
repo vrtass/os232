@@ -2,4 +2,4 @@
 
 || [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/vrtass/os232/) ||
 
-#### REV22: Sun 08 Oct 2023 19:00
+#### REV23: Tue 17 Oct 2023 19:00
